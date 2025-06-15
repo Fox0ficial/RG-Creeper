@@ -35,7 +35,7 @@ Camuflagem em ambientes verdes
 --Informações Pessoais
 
 local Name = "Creeper"
-local Description = "Adora Explodir casa"
+local Description = "Adora Explodir casas"
 local Sound = "Tssss"
 local CPF = "xxx.xxx.xxx-xx"
 
@@ -67,7 +67,7 @@ print("------------------------------------------")
 print("|                   Foto:                |")
 print("|  ".. Name.. "             🟩🟩🟩🟩🟩🟩🟩🟩  |")
 print("|  CPF: ".. CPF.." 🟩⬛⬛🟩🟩⬛⬛🟩  |")
-print("|  ".. Description.." 🟩⬛⬛🟩🟩⬛⬛🟩  |")
+print("|  ".. Description.."🟩⬛⬛🟩🟩⬛⬛🟩  |")
 print("|                      🟩🟩🟩⬛⬛🟩🟩🟩  |")
 print("|  Som: ".. Sound.."          🟩🟩🟩⬛⬛🟩🟩🟩  |")
 print("|                      🟩🟩⬛⬛⬛⬛🟩🟩  |")
